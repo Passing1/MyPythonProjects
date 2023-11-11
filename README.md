@@ -29,9 +29,9 @@ Stelle sicher, dass du Python auf deinem Computer installiert hast, um die Beisp
 
 Im Ordner "Python Projekte" findest du zwei Unterordner:
 
-- **Schulische Projekte**: Hier sind Python-Projekte, die im schulischen Kontext entstanden sind. Beschreibungen zu den einzelnen Projekten findest du in den jeweiligen Unterordnern.
+- **Schulische Projekte**: Hier sind Python-Projekte, die im schulischen Kontext entstanden sind.
 - **Eigene Projekte**: Dieser Ordner enthält persönliche Python-Projekte. Hier kannst du Codebeispiele und kleinere Projekte finden, die ich in meiner Freizeit entwickelt habe.
 
 ## Feedback
 
-Ich freue mich über Feedback! Wenn Sie Fragen haben oder Vorschläge zur Verbesserung des Codes haben, erstellen Sie bitte ein [Issue](https://github.com/Passing1/MyPythonProjects/issues) oder eine [Pull-Anfrage](https://github.com/Passing1/MyPythonProjects/pulls). Sie können mir natürlich direkt unter meiner [E-Mail](mailto:pascalfreund2005@gmail.com). erreichen.
+Ich freue mich über Feedback! Wenn Sie Fragen haben oder Vorschläge zur Verbesserung des Codes haben, erstellen Sie bitte ein [Issue](https://github.com/Passing1/MyPythonProjects/issues) oder eine [Pull-Anfrage](https://github.com/Passing1/MyPythonProjects/pulls). Sie können mich natürlich direkt unter meiner [E-Mail](mailto:pascalfreund2005@gmail.com) erreichen.

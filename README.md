@@ -34,4 +34,4 @@ Im Ordner "python_projekte" findest du zwei Unterordner:
 
 ## Feedback
 
-Ich freue mich über Feedback! Wenn Sie Fragen haben oder Vorschläge zur Verbesserung des Codes haben, erstellen Sie bitte ein [Issue](https://github.com/Passing1/MyPythonProjects/issues) oder eine [Pull-Anfrage](https://github.com/Passing1/MyPythonProjects/pulls). Sie können mir natürlich direkt unter meiner .[E-Mail](mailto:pascalfreund2005@gmail.com). erreichen.
+Ich freue mich über Feedback! Wenn Sie Fragen haben oder Vorschläge zur Verbesserung des Codes haben, erstellen Sie bitte ein [Issue](https://github.com/Passing1/MyPythonProjects/issues) oder eine [Pull-Anfrage](https://github.com/Passing1/MyPythonProjects/pulls). Sie können mir natürlich direkt unter meiner [E-Mail](mailto:pascalfreund2005@gmail.com). erreichen.

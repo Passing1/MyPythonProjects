@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Dieses Repository enthält eine Sammlung von Python-Codebeispielen, die meine Grundkenntnisse in Python zeigen. Von einfachen Skripten bis zu kleinen Projekten finden Sie hier Beispiele, die meine Fähigkeiten in der Programmiersprache Python demonstrieren.
+Dieses Repository enthält eine Sammlung von Python-Codebeispielen, die meine Kenntnisse in Python zeigen. Von einfachen Skripten bis zu kleinen Projekten finden Sie hier Beispiele, die meine Fähigkeiten in der Programmiersprache Python demonstrieren.
 
 ## Inhalt
 

@@ -27,10 +27,10 @@ Stelle sicher, dass du Python auf deinem Computer installiert hast, um die Beisp
 
 ## Projekte
 
-Im Ordner "python_projekte" findest du zwei Unterordner:
+Im Ordner "Python Projekte" findest du zwei Unterordner:
 
-- **schulische_projekte**: Hier sind Python-Projekte, die im schulischen Kontext entstanden sind. Beschreibungen zu den einzelnen Projekten findest du in den jeweiligen Unterordnern.
-- **eigene_projekte**: Dieser Ordner enthält persönliche Python-Projekte. Hier kannst du Codebeispiele und kleinere Projekte finden, die ich in meiner Freizeit entwickelt habe.
+- **Schulische Projekte**: Hier sind Python-Projekte, die im schulischen Kontext entstanden sind. Beschreibungen zu den einzelnen Projekten findest du in den jeweiligen Unterordnern.
+- **Eigene Projekte**: Dieser Ordner enthält persönliche Python-Projekte. Hier kannst du Codebeispiele und kleinere Projekte finden, die ich in meiner Freizeit entwickelt habe.
 
 ## Feedback
 
